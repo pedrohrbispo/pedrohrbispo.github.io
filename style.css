@@ -1,0 +1,75 @@
+body{
+    background-color:#dedbd2;
+  
+  }
+ #menu{
+    align-items: center;
+    letter-spacing:2px;
+    list-style: none;
+    text-transform: uppercase;
+  }
+  li{
+    display:inline-block;
+     padding: 10px;
+    margin: 5px;
+    font-size: 20px;
+  }
+  li:hover{
+    background-color: #4CAF50;
+  }
+  a{
+    color: black;
+    text-decoration: none;
+
+  }
+  #f{
+      padding: 10px;
+      background-color:#a5a58d;
+  }
+
+  .Header {
+background-image: url(https://www.pcc.edu/web-services/wp-content/uploads/sites/6/2017/05/default-header.png);
+width:200px;
+width: 100%;
+background-color: #5f5f5f;
+margin-bottom: 20px;
+}
+.images{
+margin: 10px;
+
+}
+*{
+    margin: 0px;
+}
+#n{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.topics{
+color: #5f5f5f;
+font-size: 2em;
+}
+p{
+font-size: 20px;
+}
+.About-me{
+    margin-left: 35px;
+    margin-bottom: 35px;
+   
+}
+.My-description{
+    max-width: 50%;
+    position:absolute;
+    float: right;
+    top:200px;
+    left:240px;
+    margin-left: 180px;
+
+}
+.Skills{
+margin-left: 35px;
+margin-bottom: 35px;
+}
+.Contact{
+    margin-left: 35px;
+}
